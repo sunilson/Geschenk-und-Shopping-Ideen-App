@@ -1,4 +1,4 @@
-# Geschenk und Shopping Ideen App
+# Gift and shopping ideas app
 
 Test Ionic App in which users can browse different categories and find new interesting products or gifts. This is just a prototype, it hasn't been published to the Play Store.
 
