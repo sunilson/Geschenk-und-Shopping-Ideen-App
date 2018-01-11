@@ -1,0 +1,22 @@
+{
+  "name": "shopping-ideas-server",
+  "version": "1.0.0",
+  "description": "Server for shopping ideas app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linus Weiss",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0",
+    "shorthash": "0.0.2"
+  },
+  "engines": {
+    "node": "6.10.1"
+  }
+}

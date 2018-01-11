@@ -1,0 +1,8 @@
+{
+	"name": "Geschenk und Shopping Ideen",
+	"description": "Empty",
+	"repository":  "https://github.com/sunilson/Geschenk-und-Shopping-Ideen-App-Server",
+	"logo": "http://i.imgur.com/7O3R5Ow.png",
+	"keywords": ["shopping", "gifts", "node", "express", "mysql"],
+	"image": "heroku/nodejs"
+}
